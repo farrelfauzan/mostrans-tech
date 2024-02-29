@@ -21,7 +21,7 @@ export function MainNav({
         Character
       </Link>
       <Link
-        href="/examples/dashboard"
+        href="/location"
         className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
       >
         Location
